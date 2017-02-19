@@ -1,0 +1,43 @@
+a:hover {
+    text-decoration:none;
+    word-spacing:100px;
+}
+
+h1 {
+    font-family: 'Goudy Text', 'regular';
+    color: white;
+    font-weight: 900;
+    
+    font-size: 90px;
+}
+h5 {
+    font-family: 'Goudy Text', 'regular';
+    color: white;
+    font-size: 15px;
+}
+body {
+    background-color:#969696;
+    word-spacing:50px;
+}
+
+p {
+    color: #fff;
+    font-family:  'Goudy Text', 'regular';
+    font-size: 24px;
+   
+}
+
+p a:hover {
+    text-decoration:line-through;
+    color: #ed225d;
+}
+
+p a {
+    color:#000000;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
